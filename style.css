@@ -1,0 +1,34 @@
+body{
+    background-color: #203356;
+    display: grid;
+    justify-content: center;
+}
+
+.buttons{
+    display: flex;
+    margin-top: 50%;
+    margin-bottom: 30px;
+    justify-content: space-around;
+}
+button{
+    border: 3px solid black;
+    font-size: 30px;
+}
+
+select{
+    font-size: 20px;
+}
+
+.message{
+    display: flex;
+    justify-content: center;
+    align-items: space-around;
+
+    font-size: 30px;
+    width: 350px;
+    height: 250px;
+    background-color: #323e4c;
+    color: aliceblue;
+    
+}
+
